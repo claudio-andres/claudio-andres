@@ -1,12 +1,12 @@
 <!-- Encabezado con saludo -->
 <h1 align="center">👋 ¡Hola! Soy Claudio</h1>
-<h3 align="center">Desarrollador Web | Amante del 3D y los Shaders</h3>
+<h3 align="center">Desarrollador Web | Amante del 3D </h3>
 
 ---
 
 ## 🚀 Sobre mí
 - 💻 Me encanta crear experiencias interactivas con **React + Three.js (R3F)**
-- 🎨 Apasionado por el diseño **stylized** y los shaders en tiempo real
+- 🎨 Inspirado por el diseño **stylized** y los shaders en tiempo real
 - 📚 Siempre aprendiendo algo nuevo: WebGL, optimización y pipelines de arte
 - 🎯 Busco trabajar en proyectos creativos que mezclen **tecnología y arte**
 
@@ -33,24 +33,14 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="estadísticas de github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="lenguajes más usados" />
-</p>
-
----
-
 ## 🌐 Conéctate conmigo
 <p align="left">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/claudio-andres/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:claudio.andres.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
-⭐️ **Dato:** Puedes actualizar este README cada vez que aprendas algo nuevo o publiques un proyecto interesante. Así tu perfil siempre se verá profesional y vivo.
