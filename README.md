@@ -10,6 +10,8 @@ Combino desarrollo frontend moderno con gráficos 3D en tiempo real para constru
 
 Actualmente profundizando en optimización WebGL, arquitectura frontend escalable y pipelines de arte para aplicaciones interactivas.
 
+📘 Autor de [Introducción a HTML y CSS](https://github.com/claudio-andres/Introducci-n-a-HTML-y-CSS), un recurso práctico diseñado para dominar los fundamentos del desarrollo web.
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
@@ -23,7 +25,6 @@ Actualmente profundizando en optimización WebGL, arquitectura frontend escalabl
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
   <img src="https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" height="40"/>
-  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="40"/>
 </p>
 
 ### ⚙️ Backend
@@ -66,7 +67,9 @@ Actualmente profundizando en optimización WebGL, arquitectura frontend escalabl
 
 ## 🎯 Enfoque Actual
 
-* Desarrollo de interfaces performantes y escalables
+* Desarrollo de interfaces, performance y escalabilidad
 * Integración de gráficos 3D en tiempo real en aplicaciones web
 * Optimización de rendimiento en entornos WebGL
 * Construcción de proyectos que combinan ingeniería y dirección visual
+
+Busco integrarme en entornos dinámicos donde pueda aportar desde un perfil híbrido y versátil, colaborando de forma transversal en distintas etapas del proyecto mientras continúo evolucionando profesionalmente.
