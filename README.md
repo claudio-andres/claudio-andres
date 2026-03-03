@@ -1,46 +1,72 @@
-<!-- Encabezado con saludo -->
-<h1 align="center">👋 ¡Hola! Soy Claudio</h1>
-<h3 align="center">Desarrollador Web | Amante del 3D </h3>
+<h1 align="center">Claudio Andrés</h1>
+<h3 align="center">Frontend & Backend | Creative Developer | 3D & Real‑Time Graphics</h3>
 
 ---
 
-## 🚀 Sobre mí
-- 💻 Me encanta crear experiencias interactivas con **React + Three.js (R3F)**
-- 🎨 Inspirado por el diseño **stylized** y los shaders en tiempo real
-- 📚 Siempre aprendiendo algo nuevo: WebGL, optimización y pipelines de arte
-- 🎯 Busco trabajar en proyectos creativos que mezclen **tecnología y arte**
+## 👨‍💻 Perfil Profesional
+
+Desarrollador web enfocado en la creación de experiencias digitales interactivas y visualmente atractivas.  
+Combino desarrollo frontend moderno con gráficos 3D en tiempo real para construir productos que integran tecnología, diseño y narrativa visual.
+
+Actualmente profundizando en optimización WebGL, arquitectura frontend escalable y pipelines de arte para aplicaciones interactivas.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
+### 📌 Fundamentos
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  
-  <!-- 3D & Arte -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  
-  <!-- Backend / Otros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+  <img src="https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" height="40"/>
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="40"/>
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,mongodb" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### 🎬 3D y Animaciones
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs,blender" />
+  <img src="https://img.shields.io/badge/R3F-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="R3F" height="40"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="40"/>
+</p>
+
+### 🧪 Testing & Utils
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" height="40"/>
 </p>
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Contacto
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/claudio-andres/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:claudio.andres.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/claudio-andres/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:claudio.andres.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
+
+## 🎯 Enfoque Actual
+
+* Desarrollo de interfaces performantes y escalables
+* Integración de gráficos 3D en tiempo real en aplicaciones web
+* Optimización de rendimiento en entornos WebGL
+* Construcción de proyectos que combinan ingeniería y dirección visual
